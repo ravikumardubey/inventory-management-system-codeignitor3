@@ -1,4 +1,4 @@
-#inventory-management-system-codeignitor3
+# inventory-management-system-codeignitor3
     1. module 
         a. user management 
         b. product 
